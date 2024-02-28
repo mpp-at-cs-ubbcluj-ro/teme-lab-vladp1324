@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="altmodul" target="19" />
+      <module name="altmodul.main" target="19" />
+      <module name="altmodul.test" target="19" />
+      <module name="Module" target="19" />
+      <module name="Module.main" target="19" />
+      <module name="Module.test" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
