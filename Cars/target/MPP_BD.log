@@ -1,0 +1,485 @@
+11 Mar 2024 17:45:35,104 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:45:35,117 TRACE ro.mpp2024.CarsDBRepository 40 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2024 17:45:35,117 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:45:35,117 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:45:35,118 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:45:35,118 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:45:35,118 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:45:35,124 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:45:35,125 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 17:45:56,324 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:45:56,351 TRACE ro.mpp2024.CarsDBRepository 40 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2024 17:45:56,352 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:45:56,353 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:45:56,353 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:45:56,354 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:45:56,354 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:45:56,365 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:45:56,367 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 17:46:30,076 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:46:30,086 TRACE ro.mpp2024.CarsDBRepository 40 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2024 17:46:30,087 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:46:30,087 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:46:30,087 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:46:30,087 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:46:30,088 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:46:30,093 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:46:30,094 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 17:46:40,207 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:46:40,217 TRACE ro.mpp2024.CarsDBRepository 40 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2024 17:46:40,217 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:46:40,217 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:46:40,217 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:46:40,218 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:46:40,218 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:46:40,224 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:46:40,225 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 17:48:34,984 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:48:34,994 TRACE ro.mpp2024.CarsDBRepository 40 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2024 17:48:34,994 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:48:34,994 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:48:34,994 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:48:34,995 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:48:34,995 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:48:35,000 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:48:35,002 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 17:53:21,305 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:53:21,327 TRACE ro.mpp2024.CarsDBRepository 40 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2024 17:53:21,328 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:53:21,329 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:53:21,329 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:53:21,330 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:53:21,331 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:53:21,341 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:53:21,343 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 17:54:26,920 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:54:26,938 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 17:54:26,939 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:54:26,939 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:54:26,939 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:54:26,940 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:54:26,940 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:54:26,948 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:54:26,950 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 17:54:43,789 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:54:43,801 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 17:54:43,801 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:54:43,801 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:54:43,802 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:54:43,802 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:54:43,802 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:54:43,808 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:54:43,809 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 17:55:08,638 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:55:08,647 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 17:55:08,647 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:55:08,648 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:55:08,648 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:55:08,648 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:55:08,649 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:55:08,654 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:55:08,655 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 17:55:11,389 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:55:11,398 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 17:55:11,398 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:55:11,399 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:55:11,399 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:55:11,399 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:55:11,400 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:55:11,404 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:55:11,406 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 17:55:44,937 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:55:44,951 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 17:55:44,951 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:55:44,952 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:55:44,952 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:55:44,952 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:55:44,953 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:55:44,960 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:55:44,961 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 17:57:06,455 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 17:57:06,466 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 17:57:06,467 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 17:57:06,467 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 17:57:06,467 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:57:06,468 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 17:57:06,468 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 17:57:06,475 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 17:57:06,476 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:00:58,590 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 18:00:58,616 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:00:58,616 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:00:58,617 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:00:58,617 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:00:58,618 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:00:58,618 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:00:58,629 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:00:58,632 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:01:44,222 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 18:01:44,256 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:01:44,258 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:01:44,259 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:01:44,259 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:01:44,263 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:01:44,265 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:01:44,284 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:01:44,289 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:02:51,886 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 18:02:51,913 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:02:51,914 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:02:51,914 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:02:51,914 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:02:51,915 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:02:51,916 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:02:51,929 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:02:51,932 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:07:41,004 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 18:07:41,016 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:07:41,016 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:07:41,016 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:07:41,017 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:07:41,017 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:07:41,017 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:07:41,023 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:07:41,025 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:08:54,291 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 18:08:54,305 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:08:54,305 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:08:54,305 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:08:54,306 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:08:54,306 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:08:54,307 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:08:54,313 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:08:54,314 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:18:18,105 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 18:18:18,137 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:18:18,137 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:18:18,137 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:18:18,137 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:18:18,138 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:18:18,138 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:18:18,151 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:18:18,153 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:19:56,365 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 18:19:56,376 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:19:56,377 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:19:56,377 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:19:56,377 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:19:56,377 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:19:56,378 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:19:56,384 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:19:56,386 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:23:15,608 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 18:23:15,623 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:23:15,623 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:23:15,624 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:23:15,624 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:23:15,625 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:23:15,625 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:23:15,634 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:23:15,635 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:24:34,087 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 18:24:34,100 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:24:34,100 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:24:34,100 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:24:34,100 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:24:34,101 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:24:34,101 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:24:34,107 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:24:34,107 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:25:41,158 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 18:25:41,170 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:25:41,170 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:25:41,170 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:25:41,170 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:25:41,171 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:25:41,171 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:25:41,178 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:25:41,179 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:26:27,308 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:26:27,319 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:26:27,319 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:26:27,319 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:26:27,319 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:26:27,320 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:26:27,320 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:26:27,326 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:26:27,327 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:27:09,586 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:27:09,599 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:27:09,599 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:27:09,600 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:27:09,600 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:27:09,601 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:27:09,601 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:27:09,608 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:27:09,609 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:27:52,059 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:27:52,077 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:27:52,078 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:27:52,078 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:27:52,078 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:27:52,079 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:27:52,079 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:27:52,091 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:27:52,092 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:28:06,640 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:28:06,652 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:28:06,652 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:28:06,653 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:28:06,653 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:28:06,653 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:28:06,654 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:28:06,661 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:28:06,662 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:31:06,758 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:31:06,771 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:31:06,772 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:31:06,772 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:31:06,772 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:31:06,772 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:31:06,773 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:31:06,779 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:31:06,780 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:31:52,557 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:31:52,571 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:31:52,571 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:31:52,571 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:31:52,571 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:31:52,572 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:31:52,572 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:31:52,579 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:31:52,580 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:32:29,063 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:32:29,077 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:32:29,077 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:32:29,078 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:32:29,078 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:32:29,078 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:32:29,079 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:32:29,085 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:32:29,086 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:33:00,039 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"} 
+11 Mar 2024 18:33:00,051 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:33:00,052 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:33:00,052 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:33:00,053 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:33:00,053 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:33:00,053 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:33:00,061 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db"
+11 Mar 2024 18:33:00,062 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:33:31,398 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:33:31,413 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:33:31,413 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:33:31,413 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:33:31,413 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:33:31,414 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:33:31,414 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:33:31,421 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:33:31,422 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:34:31,270 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:34:31,284 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:34:31,285 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:34:31,285 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:34:31,286 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:34:31,287 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:34:31,287 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:34:31,298 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:34:31,300 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:34:36,558 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:34:36,569 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:34:36,569 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:34:36,570 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:34:36,570 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:34:36,570 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:34:36,571 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:34:36,577 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:34:36,579 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:35:34,905 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:35:34,919 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:35:34,919 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:35:34,919 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:35:34,920 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:35:34,920 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:35:34,920 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:35:34,927 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:35:34,928 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:35:47,328 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:35:47,342 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:35:47,342 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:35:47,343 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:35:47,343 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:35:47,343 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:35:47,344 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:35:47,350 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:35:47,352 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:37:05,746 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:37:05,759 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:37:05,759 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:37:05,759 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:37:05,760 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:37:05,760 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:37:05,760 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:37:05,766 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:37:05,767 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:40:23,635 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:40:23,649 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:40:23,649 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:40:23,650 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:40:23,650 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:40:23,650 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:40:23,650 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:40:23,656 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:40:23,657 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:40:36,273 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:40:36,286 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:40:36,287 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:40:36,287 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:40:36,287 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:40:36,288 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:40:36,288 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:40:36,296 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:40:36,297 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:41:12,190 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:41:12,203 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:41:12,204 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:41:12,204 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:41:12,204 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:41:12,204 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:41:12,205 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:41:12,211 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:41:12,212 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:41:56,567 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:41:56,580 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:41:56,581 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:41:56,581 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:41:56,582 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:41:56,582 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:41:56,582 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:41:56,591 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:41:56,592 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:51:20,973 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"} 
+11 Mar 2024 18:51:20,986 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:51:20,987 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:51:20,987 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:51:20,987 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:51:20,988 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:51:20,989 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:51:20,996 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:"D:/facultate/Semestrul 2/MPP/cars.db"
+11 Mar 2024 18:51:20,997 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 18:52:42,403 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db} 
+11 Mar 2024 18:52:42,416 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:52:42,416 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:52:42,416 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:52:42,417 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/facultate/Semestrul 2/MPP/cars.db
+11 Mar 2024 18:52:42,417 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:52:42,418 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:52:42,605 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:52:42,610 ERROR ro.mpp2024.CarsDBRepository 92 add - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+11 Mar 2024 18:52:42,610 TRACE ro.mpp2024.CarsDBRepository 95 add - Exit
+11 Mar 2024 18:52:42,611 TRACE ro.mpp2024.CarsDBRepository 119 findAll - Enter
+11 Mar 2024 18:52:42,611 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:52:42,611 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:52:42,611 ERROR ro.mpp2024.CarsDBRepository 137 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+11 Mar 2024 18:52:42,612 TRACE ro.mpp2024.CarsDBRepository 140 findAll - Exit
+11 Mar 2024 18:52:42,613 TRACE ro.mpp2024.CarsDBRepository 28 findByManufacturer - Enter Searching for cars by manufacturer: Tesla
+11 Mar 2024 18:52:42,613 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:52:42,613 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:52:42,614 ERROR ro.mpp2024.CarsDBRepository 45 findByManufacturer - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+11 Mar 2024 18:52:42,614 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit
+11 Mar 2024 18:53:02,579 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db} 
+11 Mar 2024 18:53:02,592 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:53:02,592 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:53:02,592 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:53:02,592 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db
+11 Mar 2024 18:53:02,593 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:53:02,593 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:53:02,785 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:53:02,791 ERROR ro.mpp2024.CarsDBRepository 92 add - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+11 Mar 2024 18:53:02,791 TRACE ro.mpp2024.CarsDBRepository 95 add - Exit
+11 Mar 2024 18:53:02,791 TRACE ro.mpp2024.CarsDBRepository 119 findAll - Enter
+11 Mar 2024 18:53:02,792 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:53:02,792 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:53:02,792 ERROR ro.mpp2024.CarsDBRepository 137 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+11 Mar 2024 18:53:02,793 TRACE ro.mpp2024.CarsDBRepository 140 findAll - Exit
+11 Mar 2024 18:53:02,793 TRACE ro.mpp2024.CarsDBRepository 28 findByManufacturer - Enter Searching for cars by manufacturer: Tesla
+11 Mar 2024 18:53:02,794 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:53:02,794 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:53:02,795 ERROR ro.mpp2024.CarsDBRepository 45 findByManufacturer - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+11 Mar 2024 18:53:02,795 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit
+11 Mar 2024 18:53:40,365 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db} 
+11 Mar 2024 18:53:40,379 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:53:40,379 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:53:40,379 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:53:40,379 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db
+11 Mar 2024 18:53:40,380 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:53:40,380 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:53:40,578 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:53:40,583 ERROR ro.mpp2024.CarsDBRepository 92 add - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+11 Mar 2024 18:53:40,583 TRACE ro.mpp2024.CarsDBRepository 95 add - Exit
+11 Mar 2024 18:53:40,584 TRACE ro.mpp2024.CarsDBRepository 119 findAll - Enter
+11 Mar 2024 18:53:40,584 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:53:40,584 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:53:40,585 ERROR ro.mpp2024.CarsDBRepository 137 findAll - java.sql.SQLException: no such column: 'manufacturer'
+11 Mar 2024 18:53:40,586 TRACE ro.mpp2024.CarsDBRepository 140 findAll - Exit
+11 Mar 2024 18:53:40,586 TRACE ro.mpp2024.CarsDBRepository 28 findByManufacturer - Enter Searching for cars by manufacturer: Tesla
+11 Mar 2024 18:53:40,587 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:53:40,587 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:53:40,587 ERROR ro.mpp2024.CarsDBRepository 45 findByManufacturer - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+11 Mar 2024 18:53:40,588 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit
+11 Mar 2024 18:54:37,331 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db} 
+11 Mar 2024 18:54:37,344 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:54:37,345 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:54:37,345 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:54:37,345 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db
+11 Mar 2024 18:54:37,346 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:54:37,346 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:54:37,554 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:54:37,558 ERROR ro.mpp2024.CarsDBRepository 92 add - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (table car has no column named manufacturer)
+11 Mar 2024 18:54:37,559 TRACE ro.mpp2024.CarsDBRepository 95 add - Exit
+11 Mar 2024 18:54:37,559 TRACE ro.mpp2024.CarsDBRepository 119 findAll - Enter
+11 Mar 2024 18:54:37,559 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:54:37,560 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:54:37,560 ERROR ro.mpp2024.CarsDBRepository 137 findAll - java.sql.SQLException: no such column: 'manufacturer'
+11 Mar 2024 18:54:37,561 TRACE ro.mpp2024.CarsDBRepository 140 findAll - Exit
+11 Mar 2024 18:54:37,562 TRACE ro.mpp2024.CarsDBRepository 28 findByManufacturer - Enter Searching for car by manufacturer: Tesla
+11 Mar 2024 18:54:37,562 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:54:37,562 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:54:37,563 ERROR ro.mpp2024.CarsDBRepository 45 findByManufacturer - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: manufacturer)
+11 Mar 2024 18:54:37,563 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit
+11 Mar 2024 18:55:28,533 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db} 
+11 Mar 2024 18:55:28,545 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:55:28,545 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:55:28,546 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:55:28,546 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db
+11 Mar 2024 18:55:28,546 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:55:28,547 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:55:28,727 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:55:28,735 TRACE ro.mpp2024.CarsDBRepository 89 add - Saved 1 instances
+11 Mar 2024 18:55:28,735 TRACE ro.mpp2024.CarsDBRepository 95 add - Exit
+11 Mar 2024 18:55:28,735 TRACE ro.mpp2024.CarsDBRepository 119 findAll - Enter
+11 Mar 2024 18:55:28,736 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:55:28,736 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:55:28,737 TRACE ro.mpp2024.CarsDBRepository 140 findAll - Exit
+11 Mar 2024 18:55:28,737 TRACE ro.mpp2024.CarsDBRepository 28 findByManufacturer - Enter Searching for car by manufacturer: Tesla
+11 Mar 2024 18:55:28,738 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:55:28,738 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:55:28,738 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit
+11 Mar 2024 18:58:25,547 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db} 
+11 Mar 2024 18:58:25,561 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:58:25,561 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:58:25,561 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:58:25,561 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db
+11 Mar 2024 18:58:25,562 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:58:25,562 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:58:25,750 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:58:25,757 TRACE ro.mpp2024.CarsDBRepository 89 add - Saved 1 instances
+11 Mar 2024 18:58:25,757 TRACE ro.mpp2024.CarsDBRepository 95 add - Exit
+11 Mar 2024 18:58:25,758 TRACE ro.mpp2024.CarsDBRepository 119 findAll - Enter
+11 Mar 2024 18:58:25,758 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:58:25,758 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:58:25,759 TRACE ro.mpp2024.CarsDBRepository 140 findAll - Exit
+11 Mar 2024 18:58:25,759 TRACE ro.mpp2024.CarsDBRepository 28 findByManufacturer - Enter Searching for car by manufacturer: Tesla
+11 Mar 2024 18:58:25,760 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:58:25,760 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:58:25,761 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit
