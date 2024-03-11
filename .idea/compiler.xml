@@ -5,15 +5,18 @@
       <module name="altmodul" target="19" />
       <module name="altmodul.main" target="19" />
       <module name="altmodul.test" target="19" />
-      <module name="Cars" target="21" />
-      <module name="Cars.main" target="21" />
-      <module name="Cars.test" target="21" />
+      <module name="Cars" target="17" />
+      <module name="Cars.main" target="17" />
+      <module name="Cars.test" target="17" />
       <module name="Module" target="19" />
       <module name="Module.main" target="19" />
       <module name="Module.test" target="19" />
       <module name="StartGradle" target="19" />
       <module name="StartGradle.main" target="19" />
       <module name="StartGradle.test" target="19" />
+      <module name="TemaLab4" target="17" />
+      <module name="TemaLab4.main" target="17" />
+      <module name="TemaLab4.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

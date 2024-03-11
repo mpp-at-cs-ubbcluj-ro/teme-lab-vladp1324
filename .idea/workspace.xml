@@ -5,54 +5,97 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="392363fd-67fd-4879-a166-dd185e79b8ce" name="Changes" comment="Tema lab2">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_xerial_sqlite_jdbc_3_36_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cars.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cars.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/bd.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/ro/mpp2024/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/ro/mpp2024/CarRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/ro/mpp2024/CarsDBRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/ro/mpp2024/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/ro/mpp2024/JavaCodeExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/ro/mpp2024/JdbcUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/ro/mpp2024/MainBD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/ro/mpp2024/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_micrometer_micrometer_commons_1_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_micrometer_micrometer_observation_1_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_23_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_core_2_23_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_base_win_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_controls_win_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_fxml_win_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_graphics_win_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_6_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_6_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_6_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_6_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_6_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_6_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_xerial_sqlite_jdbc_3_34_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/TemaLab4.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/TemaLab4.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/ComputerRequests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/RepairShopDB.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/RepairedForms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/bd.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/MainFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/MainFXSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/RepairShopConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/ctrl/ComputerRepairShopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/model/ComputerRepairRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/model/ComputerRepairedForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/model/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/model/RequestStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/ComputerRepairRequestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/ComputerRepairedFormRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/RepositoryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/file/ComputerRepairRequestFileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/file/ComputerRepairedFormFileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/jdbc/ComputerRepairRequestJdbcRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/jdbc/ComputerRepairedFormJdbcRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/jdbc/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/mock/AbstractRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/mock/ComputerRepairRequestInMemoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/repository/mock/ComputerRepairedFormInMemoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/services/ComputerRepairServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/java/services/ServicesException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/resources/RepairShopConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/resources/RepairShopWindow.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/resources/bd.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemaLab4/src/main/resources/log4j2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e0de3025-1404-4993-a933-cce524eeb276.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e0de3025-1404-4993-a933-cce524eeb276.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_7_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_7_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_7_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_7_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_7_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jupiter_junit_jupiter_5_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cars.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cars.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cars.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Module.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Module.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Module.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Module.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Module/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/.gradle/8.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/.gradle/8.2/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/.gradle/8.2/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/.gradle/8.2/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/.gradle/8.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/.gradle/8.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/.gradle/8.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/.gradle/8.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/build/reports/tests/test/classes/ComputerRepairRequestTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/build/reports/tests/test/classes/ComputerRepairRequestTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/build/test-results/test/TEST-ComputerRepairRequestTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/build/test-results/test/TEST-ComputerRepairRequestTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGradle/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/altmodul.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/.gradle/8.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/.gradle/8.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/.gradle/8.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/.gradle/8.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/.gradle/8.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/.gradle/8.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/.gradle/workspace-id.txt.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/.gradle/workspace-id.txt.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/CarRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/CarRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/CarsDBRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/CarsDBRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/Identifiable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/Identifiable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/JdbcUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/JdbcUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/MainBD.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/MainBD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/Repository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/build/classes/java/main/ro/mpp2024/Repository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/target/MPP_BD.log" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/target/MPP_BD.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StartGradle/src/main/java/ro/mpp2024/ComputerShopMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/src/main/java/ro/mpp2024/ComputerShopMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StartGradle/src/main/java/ro/mpp2024/model/ComputerRepairRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/src/main/java/model/ComputerRepairRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StartGradle/src/main/java/ro/mpp2024/model/Identifiable.java" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/src/main/java/model/Identifiable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StartGradle/src/main/java/ro/mpp2024/repository/AbstractRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/src/main/java/repository/AbstractRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StartGradle/src/main/java/ro/mpp2024/repository/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/src/main/java/repository/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StartGradle/src/main/java/ro/mpp2024/repository/RequestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/src/main/java/repository/RequestRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StartGradle/src/test/java/ComputerRepairRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/StartGradle/src/test/java/ComputerRepairRequestTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +112,9 @@
     <projectState path="$PROJECT_DIR$/StartGradle">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/TemaLab4">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -77,6 +123,9 @@
           <activation />
         </task>
         <task path="$PROJECT_DIR$/Cars">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/TemaLab4">
           <activation />
         </task>
         <projects_view>
@@ -120,7 +169,7 @@
     "android.gradle.sync.needed": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "C:/Users/Asus/Desktop/teme-lab-Catalin142-main",
+    "last_opened_file_path": "C:/Users/Asus/Desktop/LaLabuluiJava/TemaLab4/src/main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -136,110 +185,27 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Desktop\LaLabuluiJava\TemaLab4\src\main" />
+      <recent name="C:\Users\Asus\Desktop\LaLabuluiJava\TemaLab4" />
+      <recent name="C:\Users\Asus\Desktop\LaLabuluiJava\TemaLab4\src\main\resources" />
+      <recent name="C:\Users\Asus\Desktop\LaLabuluiJava\TemaLab4\src\main\java\ro\mpp2024" />
       <recent name="C:\Users\Asus\Desktop\teme-lab-vladp\Cars\src\main\java\ro\mpp2024" />
-      <recent name="C:\Users\Asus\Desktop\teme-lab-vladp\StartGradle\src\main\resources" />
-      <recent name="C:\Users\Asus\Desktop\teme-lab-vladp\StartGradle\src\main\java\ro\mpp2024" />
-      <recent name="C:\Users\Asus\Desktop\teme-lab-vladp\StartGradle\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Desktop\LaLabuluiJava\TemaLab4" />
       <recent name="C:\Users\Asus\Desktop\teme-lab-vladp\Cars\src\main\resources" />
       <recent name="C:\Users\Asus\Desktop\teme-lab-vladp\Cars" />
       <recent name="C:\Users\Asus\Desktop\teme-lab-vladp\StartGradle\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ro.mpp2024" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Cars [run]">
-    <configuration name="Cars [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Cars" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="buildDependents" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="Cars [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Cars" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="Cars [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Cars" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="Cars [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Cars" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="jar" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.TemaLab4 [run]">
     <configuration name="Cars [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -262,13 +228,101 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="TemaLab4 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TemaLab4" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="TemaLab4 [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TemaLab4" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="TemaLab4 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TemaLab4" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="TemaLab4 [testClasses]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TemaLab4" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testClasses" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.TemaLab4 [run]" />
+        <item itemvalue="Gradle.TemaLab4 [build]" />
+        <item itemvalue="Gradle.TemaLab4 [testClasses]" />
+        <item itemvalue="Gradle.TemaLab4 [jar]" />
         <item itemvalue="Gradle.Cars [run]" />
-        <item itemvalue="Gradle.Cars [jar]" />
-        <item itemvalue="Gradle.Cars [clean]" />
-        <item itemvalue="Gradle.Cars [buildDependents]" />
-        <item itemvalue="Gradle.Cars [build]" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +343,7 @@
       <workItem from="1710168610873" duration="500000" />
       <workItem from="1710169125252" duration="1000" />
       <workItem from="1710169143472" duration="7120000" />
+      <workItem from="1711375452894" duration="7859000" />
     </task>
     <task id="LOCAL-00001" summary="Tema lab2">
       <option name="closed" value="true" />

@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import ro.mpp2024.model.ComputerRepairRequest;
+import model.ComputerRepairRequest;
 
 public class ComputerRepairRequestTest {
     @Test

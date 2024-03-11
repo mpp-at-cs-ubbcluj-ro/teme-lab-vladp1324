@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/Cars" />
     <file type="web" url="file://$PROJECT_DIR$/Module" />
     <file type="web" url="file://$PROJECT_DIR$/StartGradle" />
+    <file type="web" url="file://$PROJECT_DIR$/TemaLab4" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

@@ -483,3 +483,93 @@
 11 Mar 2024 18:58:25,760 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
 11 Mar 2024 18:58:25,760 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
 11 Mar 2024 18:58:25,761 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit
+11 Mar 2024 18:59:38,792 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db} 
+11 Mar 2024 18:59:38,805 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:59:38,805 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:59:38,806 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:59:38,806 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db
+11 Mar 2024 18:59:38,806 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:59:38,806 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:59:39,002 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:59:39,017 TRACE ro.mpp2024.CarsDBRepository 89 add - Saved 1 instances
+11 Mar 2024 18:59:39,017 TRACE ro.mpp2024.CarsDBRepository 95 add - Exit
+11 Mar 2024 18:59:39,017 TRACE ro.mpp2024.CarsDBRepository 119 findAll - Enter
+11 Mar 2024 18:59:39,018 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:59:39,018 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:59:39,018 TRACE ro.mpp2024.CarsDBRepository 140 findAll - Exit
+11 Mar 2024 18:59:39,019 TRACE ro.mpp2024.CarsDBRepository 28 findByManufacturer - Enter Searching for car by manufacturer: Tesla
+11 Mar 2024 18:59:39,019 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:59:39,020 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:59:39,020 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit
+11 Mar 2024 18:59:52,642 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db} 
+11 Mar 2024 18:59:52,653 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+11 Mar 2024 18:59:52,654 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:59:52,654 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 18:59:52,654 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db
+11 Mar 2024 18:59:52,655 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 18:59:52,655 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 18:59:52,841 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:59:52,849 TRACE ro.mpp2024.CarsDBRepository 89 add - Saved 1 instances
+11 Mar 2024 18:59:52,849 TRACE ro.mpp2024.CarsDBRepository 95 add - Exit
+11 Mar 2024 18:59:52,850 TRACE ro.mpp2024.CarsDBRepository 119 findAll - Enter
+11 Mar 2024 18:59:52,850 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:59:52,850 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:59:52,851 TRACE ro.mpp2024.CarsDBRepository 140 findAll - Exit
+11 Mar 2024 18:59:52,852 TRACE ro.mpp2024.CarsDBRepository 28 findByManufacturer - Enter Searching for car by manufacturer: Tesla
+11 Mar 2024 18:59:52,853 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 18:59:52,853 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+11 Mar 2024 18:59:52,853 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit
+25 Mar 2024 16:04:48,487 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db} 
+25 Mar 2024 16:04:48,501 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+25 Mar 2024 16:04:48,501 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2024 16:04:48,502 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+25 Mar 2024 16:04:48,502 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db
+25 Mar 2024 16:04:48,503 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+25 Mar 2024 16:04:48,504 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+25 Mar 2024 16:04:48,737 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+25 Mar 2024 16:04:48,753 TRACE ro.mpp2024.CarsDBRepository 89 add - Saved 1 instances
+25 Mar 2024 16:04:48,754 TRACE ro.mpp2024.CarsDBRepository 95 add - Exit
+25 Mar 2024 16:04:48,754 TRACE ro.mpp2024.CarsDBRepository 119 findAll - Enter
+25 Mar 2024 16:04:48,754 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2024 16:04:48,755 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+25 Mar 2024 16:04:48,756 TRACE ro.mpp2024.CarsDBRepository 140 findAll - Exit
+25 Mar 2024 16:04:48,757 TRACE ro.mpp2024.CarsDBRepository 28 findByManufacturer - Enter Searching for car by manufacturer: Tesla
+25 Mar 2024 16:04:48,757 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2024 16:04:48,757 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68702e03)
+25 Mar 2024 16:04:48,758 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit
+25 Mar 2024 17:10:11,854 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db} 
+25 Mar 2024 17:10:11,876 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+25 Mar 2024 17:10:11,876 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2024 17:10:11,877 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+25 Mar 2024 17:10:11,877 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db
+25 Mar 2024 17:10:11,878 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+25 Mar 2024 17:10:11,878 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+25 Mar 2024 17:10:12,130 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3932c79a)
+25 Mar 2024 17:10:12,138 TRACE ro.mpp2024.CarsDBRepository 89 add - Saved 1 instances
+25 Mar 2024 17:10:12,138 TRACE ro.mpp2024.CarsDBRepository 95 add - Exit
+25 Mar 2024 17:10:12,138 TRACE ro.mpp2024.CarsDBRepository 119 findAll - Enter
+25 Mar 2024 17:10:12,139 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2024 17:10:12,139 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3932c79a)
+25 Mar 2024 17:10:12,140 TRACE ro.mpp2024.CarsDBRepository 140 findAll - Exit
+25 Mar 2024 17:10:12,140 TRACE ro.mpp2024.CarsDBRepository 28 findByManufacturer - Enter Searching for car by manufacturer: Tesla
+25 Mar 2024 17:10:12,140 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2024 17:10:12,141 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3932c79a)
+25 Mar 2024 17:10:12,141 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit
+25 Mar 2024 17:22:36,087 INFO  ro.mpp2024.CarsDBRepository 22 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db} 
+25 Mar 2024 17:22:36,100 TRACE ro.mpp2024.CarsDBRepository 82 add - Enter saving taks Id=0 Tesla Model S 2019
+25 Mar 2024 17:22:36,100 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2024 17:22:36,101 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+25 Mar 2024 17:22:36,101 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/facultate/Semestrul 2/MPP/ cars.db
+25 Mar 2024 17:22:36,101 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+25 Mar 2024 17:22:36,102 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+25 Mar 2024 17:22:36,291 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3932c79a)
+25 Mar 2024 17:22:36,307 TRACE ro.mpp2024.CarsDBRepository 89 add - Saved 1 instances
+25 Mar 2024 17:22:36,308 TRACE ro.mpp2024.CarsDBRepository 95 add - Exit
+25 Mar 2024 17:22:36,308 TRACE ro.mpp2024.CarsDBRepository 119 findAll - Enter
+25 Mar 2024 17:22:36,309 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2024 17:22:36,309 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3932c79a)
+25 Mar 2024 17:22:36,310 TRACE ro.mpp2024.CarsDBRepository 140 findAll - Exit
+25 Mar 2024 17:22:36,312 TRACE ro.mpp2024.CarsDBRepository 28 findByManufacturer - Enter Searching for car by manufacturer: Tesla
+25 Mar 2024 17:22:36,313 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2024 17:22:36,313 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3932c79a)
+25 Mar 2024 17:22:36,315 TRACE ro.mpp2024.CarsDBRepository 48 findByManufacturer - Exit

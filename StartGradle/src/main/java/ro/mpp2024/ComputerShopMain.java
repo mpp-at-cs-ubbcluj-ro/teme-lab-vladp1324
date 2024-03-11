@@ -2,8 +2,8 @@ package ro.mpp2024;
 
 import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.Multimap;
-import ro.mpp2024.model.ComputerRepairRequest;
-import ro.mpp2024.repository.RequestRepository;
+import model.ComputerRepairRequest;
+import repository.RequestRepository;
 
 public class ComputerShopMain {
     public static void main(String[] args){
