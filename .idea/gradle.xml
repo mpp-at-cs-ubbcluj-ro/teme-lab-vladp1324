@@ -4,8 +4,16 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Cars" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Cars" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/Module" />
-        <option name="gradleHome" value="" />
         <option name="gradleJvm" value="corretto-19" />
         <option name="modules">
           <set>
@@ -15,7 +23,6 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/StartGradle" />
-        <option name="gradleHome" value="" />
         <option name="gradleJvm" value="corretto-19" />
         <option name="modules">
           <set>
@@ -25,7 +32,6 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/altmodul" />
-        <option name="gradleHome" value="" />
         <option name="gradleJvm" value="corretto-19" />
         <option name="modules">
           <set>
