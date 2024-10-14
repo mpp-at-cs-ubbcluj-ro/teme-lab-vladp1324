@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Module:main" external.linked.project.path="$MODULE_DIR$/../../Module" external.root.project.path="$MODULE_DIR$/../../Module" external.system.id="GRADLE" external.system.module.group="ro.ubbcluj.cs.map" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_19">
+    <output url="file://$MODULE_DIR$/../../Module/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Module/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../Module/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Module/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.xerial:sqlite-jdbc:3.36.0.3" level="project" />
+  </component>
+</module>
